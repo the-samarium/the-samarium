@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./asset.png" width="120" height="120" style="border-radius:100%; border: 2px solid #30363d;" />
+<img src="./asset.jpg" width="120" height="120" style="border-radius:100%; border: 2px solid #30363d;" />
 
 <!-- Name -->
 <h1>Sameer Chavan.</h1>
