@@ -176,14 +176,9 @@ Udemy     ·  Python                                       Aug 2024
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-samarium&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=E6EDF3&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" width="47%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-samarium&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8b949e&langs_count=6" width="38%" />
-
 </div>
 
 <br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer" />
+<img width=150 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNycDhicTl2eXdwc2Z5dW55c2JyM2dyaXIweHM2NDZrMDRnMW9pbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sa0uAPc83dZORsRXCV/giphy.gif" />
 </div>
