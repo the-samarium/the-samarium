@@ -29,8 +29,7 @@
 ```yaml
 name    : Sameer Chavan
 focus   : LLMs · RAG Pipelines · Edge AI · Agentic Workflows
-looking : AI/ML Engineering Internships · MLOps / AI Infra Roles · Generative AI Internships
-status  : Building in public 
+status  : Final Year Student
 ```
 
 <br/>
